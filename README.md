@@ -3,7 +3,11 @@
 A Java-based Railway Reservation System that manages train schedules, seat availability, passenger bookings, and real-time updates using MySQL and JDBC.
 
 ---
-
+## 🔥 Highlights
+- Real-time seat allocation system
+- JDBC-based database integration
+- Admin-controlled train management
+- Scalable relational schema design
 ## 📌 Features
 
 * 🚉 Train Management (Add/View Trains)
